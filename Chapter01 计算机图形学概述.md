@@ -1,7 +1,7 @@
 # 课件引用地址
-[课件地址](https://sites.cs.ucsb.edu/~lingqi/teaching/resources/GAMES101_Lecture_01.pdf)  
+[课件地址](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)  
 
-[大佬的笔记](https://www.notion.so/Lec-01-Overview-2bdc4e86eb1e4e05bb933c93deb0a01f)
+[大佬的笔记](https://www.notion.so/GAMES101-b0e27c856cde429b8672671a54c34817)
 
 ---  
 
